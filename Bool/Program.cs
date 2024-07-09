@@ -10,6 +10,7 @@ namespace Bool
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("dc");
 
         }
     }
