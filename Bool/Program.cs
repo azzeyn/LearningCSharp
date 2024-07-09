@@ -18,6 +18,8 @@ namespace Bool
             isMale = false;
             Console.WriteLine(isMale);
 
+            bool isFemale = 0 > 5;
+            Console.WriteLine(isFemale);
 
             Console.ReadLine();
         }
