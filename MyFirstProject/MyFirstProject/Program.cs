@@ -10,7 +10,19 @@ namespace MyFirstProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello world!");
+            
+            int age = -22;
+            Console.WriteLine(age);
+            Console.WriteLine(int.MaxValue);
+            Console.WriteLine(int.MinValue);
+
+            long bigNumber = -900000000L;
+            Console.WriteLine(bigNumber);
+            Console.WriteLine(long.MaxValue);
+            Console.WriteLine(long.MinValue);
+
+
+            Console.ReadLine(); 
         }
     }
 }
