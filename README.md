@@ -1,2 +1,2 @@
 # LearningCSharp
-Repo for learning purposes
+C# Course For Beginners
